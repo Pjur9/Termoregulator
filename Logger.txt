@@ -1,0 +1,5 @@
+SACUVANI PODACI:
+
+Vrijeme dolaska poruke sa uredjaja 19:27, prosjecna temperatura 21.25, zadata temperatura 23.
+Vrijeme dolaska poruke sa uredjaja 19:27, prosjecna temperatura 21.45, zadata temperatura 23.
+Vrijeme dolaska poruke sa uredjaja 19:27, prosjecna temperatura 21.75, zadata temperatura 23.
