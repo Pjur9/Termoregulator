@@ -1,0 +1,89 @@
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Heater.exe.config
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Heater.pdb
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Device.exe
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Device.pdb
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\bin\Debug\Device.exe.config
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\obj\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\Elemnti razvoja softvera\projekat termoregulator\Common\Heater\obj\Debug\Heater.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Heater.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Heater.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Device.exe
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Device.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Device.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\obj\Debug\Heater.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\obj\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\obj\Debug\Heater.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\nunit.framework.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\nunit.framework.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Moq.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Castle.Core.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Moq.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\Castle.Core.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Common\Heater\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Heater.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Heater.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Device.exe
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\nunit.framework.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Moq.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Castle.Core.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Device.pdb
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Device.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\nunit.framework.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Moq.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Castle.Core.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.pdb
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Heater.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Heater.pdb
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Common.dll
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Device.exe
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\nunit.framework.dll
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Moq.dll
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Castle.Core.dll
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Common.pdb
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Device.pdb
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Device.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\nunit.framework.xml
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Moq.xml
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\Castle.Core.xml
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.exe
+C:\Users\User\OneDrive\Desktop\New folder\New folder\projekat termoregulator\Termoregulator\Heater\obj\Debug\Heater.pdb
