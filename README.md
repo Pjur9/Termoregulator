@@ -1,1 +1,1 @@
-# Termoregulator
+# Thermoregulator
